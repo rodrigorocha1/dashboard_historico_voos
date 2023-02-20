@@ -1,0 +1,27 @@
+quantos vôos cancelados, atrasado, Realizados, -> Filtrar por nome de compania, aeroporto, mês ano
+comparação da quantidade de vôos em relação ao mês anterior
+detalhar o atraso/antecipação dos vôos
+Pefil de vôos -> Manhã, tarde, noite, madrugada, Deixar fitro por compania, aeroporto,
+   |-Trimestre -> Mês -> Dia
+   |-Frequência de vôos 
+contagem de companias e aeroportos (Listar nacional e estrangeria)
+"Frase de exemplo"
+"No mês de janeiro a empresa x teve total de vôos Cancelados/Realizados"
+
+cd_tipo_linha: Caractere que identifica o tipo de linha. O Tipo de Linha identifica o tipo de operação realizada no voo, podendo ser classificado em:
+a) N - Doméstica Mista: para operações de transporte aéreo de passageiros ou mistas, em que todos os aeródromos envolvidos estejam situados simultaneamente em território brasileiro;
+
+b) C - Doméstica Cargueira: para operações de transporte aéreo exclusivo de carga e/ou mala postal em que todos os aeródromos envolvidos estejam situados simultaneamente em território brasileiro;
+
+c) I - Internacional Mista: para operações de transporte aéreo de passageiros ou mistas, em que ao menos um dos aeródromos envolvidos esteja situado em território estrangeiro;
+
+d) G - Internacional Cargueira: para operações de transporte aéreo exclusivo de carga e/ou rede postal em que ao menos um dos aeródromos envolvidos esteja situado em território estrangeiro;
+
+
+mês com maior/menor atraso por compania
+
+Faixa de atraso nos vôos
+0 < 60 -> Corresponde a Uma hora (Dentro da Faixa Aceitavel)
+60 < 120 -> 1h e 2h Atraso de mais de 1h
+120 < 240 -> atraso de mais de 2h
+240 < Atraso de mais de 2h
