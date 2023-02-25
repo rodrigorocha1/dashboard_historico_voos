@@ -184,7 +184,7 @@ cython_debug/
 
 !/fevereiro.csv
 
-!/glossario_de_aerodromo.xls
+!/data/raw/glossario_de_aerodromo.xls
 
 !/glossario_de_empresas_aereas.xls
 
